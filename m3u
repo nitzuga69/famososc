@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1, tvg-logo="https://cdn.clarosports.com/clarosports/2025/01/proyecto-nuevo-2025-01-09t105422.851-094814-1024x576.jpg"La Casa
 https://362a33c2a385d7d1e52d89d157b8d9ceaa1a98dd.cdn.broadpeak.io/out/v1/27a009aa04ac46ff9d4dcc1a036b0835/index.mpd
-#EXTINF:-1,tvg-logo="https://unity-img.tbxapis.com/v0/images/801ca66694329da3ba697f38c94bf0a1/content/6792a6e8f5f47d4d50d766df/26f68b7847c4d215896bd24e1c9bb180/img"Loft
+#EXTINF:-1,tvg-logo="https://unity-img.tbxapis.com/v0/images/801ca66694329da3ba697f38c94bf0a1/content/6792a6e8f5f47d4d50d766df/26f68b7847c4d215896bd24e1c9bb180/jpg"Loft
 https://362a33c2a385d7d1e52d89d12b4226dd7ed6eb2d.cdn.broadpeak.io/out/v1/938bacdb04e647178209546326717769/index.mpd
-#EXTINF:-1,tvg-logo="https://unity-img.tbxapis.com/v0/images/801ca66694329da3ba697f38c94bf0a1/content/679295f1f5f47df244d76565/e59cc4f4caa4e462e6e02af999fd2cc3/img.jpg"Comedor
+#EXTINF:-1,tvg-logo="https://unity-img.tbxapis.com/v0/images/801ca66694329da3ba697f38c94bf0a1/content/679295f1f5f47df244d76565/e59cc4f4caa4e462e6e02af999fd2cc3/jpg"Comedor
 https://362a33c2a385d7d1e52d89d12b4226dd7ed6eb2d.cdn.broadpeak.io/out/v1/a8aee35816a049c3bd3d925448e79e39/index.mpd
 #EXTINF:-1,tvg-logo="Habitacion Agua
 https://362a33c2a385d7d1e52d89d12b4226dd7ed6eb2d.cdn.broadpeak.io/out/v1/b29051a7961e4a2aaeb7ae180f703190/index.mpd
