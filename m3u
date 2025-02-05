@@ -13,4 +13,7 @@ https://362a33c2a385d7d1e52d89d12b4226dd7ed6eb2d.cdn.broadpeak.io/out/v1/326defc
 https://362a33c2a385d7d1e52d89d18ecdbbf4ca2a3715.cdn.broadpeak.io/out/v1/6c03370c712c4bf1aace7ed2bab696ec/index.mpd
 #EXTINF:-1,Banos
 https://362a33c2a385d7d1e52d89d18ecdbbf4ca2a3715.cdn.broadpeak.io/out/v1/99807fdfee6f4c86ad1e82b935a9bbf0/index.mpd
-#EXTINF:-1,
+#EXTINF:-1,Camara 1
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
+#EXTINF:-1,Camara 2
+https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
