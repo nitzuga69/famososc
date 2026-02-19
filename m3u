@@ -3,6 +3,8 @@
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
 #EXTINF:-1,Camara 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
+#EXTINF:-1,Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1,Telemundo 4K
 http://go.iptvhn.net:25461/7619/7619/1354
 #EXTINF:-1,Telemundo HD
@@ -86,8 +88,7 @@ http://go.iptvhn.net:25461/7619/7619/2464
 #EXTINF:-1,EXA HD
 http://go.iptvhn.net:25461/7619/7619/1324
 #EXTINF:-1,BANDA MAX
-http://go.iptvhn.net:25461/7619/7619/3399
-#EXTINF:-1,
+http://go.iptvhn.net:25461/7619/7619/3399.m3u
 
 #EXTINF:-1,
 
