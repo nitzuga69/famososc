@@ -9,10 +9,24 @@ http://go.iptvhn.net:25461/7619/7619/1840
 http://go.iptvhn.net:25461/7619/7619/1354
 #EXTINF:-1,Telemundo HD
 http://go.iptvhn.net:25461/7619/7619/1320
-#EXTINF:-1,AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1,TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1,TELEMUNDO
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1,Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1,AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1,CANAL 5 MEXICO 
+http://go.iptvhn.net:25461/7619/7619/2640
+#EXTINF:-1,AZTECA 7
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1,AZTECA 7 1
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1,AZTECA 7 2
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1,AZTECA 7 3
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1,MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1,MULTIMEDIOS MTY
@@ -23,22 +37,12 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1,MULTIMEDIOS PUEBLA
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1,AZTECA 7
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1,AZTECA 7 1
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1,AZTECA 7 2
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1,AZTECA 7 3
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1,ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1,MVS
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1,N+ MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
-#EXTINF:-1,TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1,PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1,CANAL 21
@@ -47,14 +51,10 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlayl
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-#EXTINF:-1,TELEMUNDO
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1,TUDN usa
-http://tvmate.icu:8080/Alan/Alan1234/82241
-#EXTINF:-1,itv (México)
-https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 #EXTINF:-1,CANAL 33 TIJUANA
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1,itv (México)
+https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 #EXTINF:-1,A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1,ONCE
@@ -67,15 +67,25 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1,Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1,Locomotion TV
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1,Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1,HBO FAMILY
-http://go.iptvhn.net:25461/7619/7619/1287
-#EXTINF:-1,HBO 2  HD
-http://go.iptvhn.net:25461/7619/7619/1288
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="http://go.iptvhn.net:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="Deportes",TUDN
+#EXTINF:-1,UNIVISION MIAMI (R)
+http://go.iptvhn.net:25461/7619/7619/2501
+#EXTINF:-1,UNICABLE
+http://go.iptvhn.net:25461/7619/7619/3390
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
+#EXTINF:-1,TUDN usa
+http://tvmate.icu:8080/Alan/Alan1234/82241
+#EXTINF:-1,TUDN 4K
 http://go.iptvhn.net:25461/7619/7619/1980
 #EXTINF:-1,TUDN USA
 http://go.iptvhn.net:25461/7619/7619/2727
@@ -83,10 +93,164 @@ http://go.iptvhn.net:25461/7619/7619/2727
 http://go.iptvhn.net:25461/7619/7619/3334
 #EXTINF:-1,FOX SPORTS PREMIUM
 http://go.iptvhn.net:25461/7619/7619/2464
+#EXTINF:-1,ESPN 1  HD
+http://go.iptvhn.net:25461/7619/7619/836
+#EXTINF:-1,ESPN 2  HD
+http://go.iptvhn.net:25461/7619/7619/837
+#EXTINF:-1,ESPN 3  HD
+http://go.iptvhn.net:25461/7619/7619/838
+#EXTINF:-1,ESPN 4  HD
+http://go.iptvhn.net:25461/7619/7619/909
+#EXTINF:-1,ESPN 5  HD
+http://go.iptvhn.net:25461/7619/7619/1069
+#EXTINF:-1,ESPN 6  HD
+http://go.iptvhn.net:25461/7619/7619/1072
+#EXTINF:-1,SKY SPORT  LA LIGA
+http://go.iptvhn.net:25461/7619/7619/1983
+#EXTINF:-1,DEPORTES TVC 
+http://go.iptvhn.net:25461/7619/7619/1928
+#EXTINF:-1,DIREC TV 4k (R)
+http://go.iptvhn.net:25461/7619/7619/1946
+#EXTINF:-1,LIGA DE CAMPEONES 4K (R)
+http://go.iptvhn.net:25461/7619/7619/1947
+#EXTINF:-1,FOX SPORT 1 
+http://go.iptvhn.net:25461/7619/7619/2357
+#EXTINF:-1,FOX SPORT 2 MEXICO
+http://go.iptvhn.net:25461/7619/7619/2464
+#EXTINF:-1,
+
+#EXTINF:-1,SKY BUNDESLIGA 4K (R)
+http://go.iptvhn.net:25461/7619/7619/2504
+#EXTINF:-1,TUDN LATINO 2
+http://go.iptvhn.net:25461/7619/7619/3333
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
+
+#EXTINF:-1,Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL  HD 
+http://go.iptvhn.net:25461/7619/7619/1275
+#EXTINF:-1,DISNEY JR.  HD
+http://go.iptvhn.net:25461/7619/7619/1276
+#EXTINF:-1,DISNEY XD  (Tooncast) HD
+http://go.iptvhn.net:25461/7619/7619/1277
+#EXTINF:-1,DISCOVERY KIDS HD
+http://go.iptvhn.net:25461/7619/7619/1278
+#EXTINF:-1,NICKELODEON HD
+http://go.iptvhn.net:25461/7619/7619/1279
+#EXTINF:-1,NICK JR. HD
+http://go.iptvhn.net:25461/7619/7619/1280
+#EXTINF:-1,CARTOON NETWORK HD
+http://go.iptvhn.net:25461/7619/7619/1281
+#EXTINF:-1,BOOMERANG  HD
+http://go.iptvhn.net:25461/7619/7619/1282
+#EXTINF:-1,BABY TV  HD
+http://go.iptvhn.net:25461/7619/7619/1283
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
 #EXTINF:-1,EXA HD
 http://go.iptvhn.net:25461/7619/7619/1324
 #EXTINF:-1,BANDA MAX
 http://go.iptvhn.net:25461/7619/7619/3399
+#EXTINF:-1,BANDAMAX MEXICO
+http://go.iptvhn.net:25461/7619/7619/2638
+#EXTINF:-1,Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,TELEHIT 
+http://go.iptvhn.net:25461/7619/7619/2643
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
+
+
+
+#EXTINF:-1,GOLDEN  HD
+http://go.iptvhn.net:25461/7619/7619/1284
+#EXTINF:-1,SONY CHANEL  HD
+http://go.iptvhn.net:25461/7619/7619/1291
+#EXTINF:-1,STAR CHANNEL  HD 
+http://go.iptvhn.net:25461/7619/7619/1292
+#EXTINF:-1,UNIVERSAL  HD
+http://go.iptvhn.net:25461/7619/7619/1297
+#EXTINF:-1,CINE LATINO HD
+http://go.iptvhn.net:25461/7619/7619/1304
+#EXTINF:-1,SPACE  HD
+http://go.iptvhn.net:25461/7619/7619/1309
+#EXTINF:-1,GOLDEN PREMIER 
+http://go.iptvhn.net:25461/7619/7619/2735
+#EXTINF:-1,GOLDEN PREMIER 2 4K
+http://go.iptvhn.net:25461/7619/7619/3362
+#EXTINF:-1,
+#EXTINF:-1,HBO  HD
+http://go.iptvhn.net:25461/7619/7619/1286
+#EXTINF:-1,HBO FAMILY
+http://go.iptvhn.net:25461/7619/7619/1287
+#EXTINF:-1,HBO 2  HD
+http://go.iptvhn.net:25461/7619/7619/1288
+#EXTINF:-1,HBO PLUS  HD
+http://go.iptvhn.net:25461/7619/7619/1289
+#EXTINF:-1,HBO XTREME  HD
+http://go.iptvhn.net:25461/7619/7619/1290
+#EXTINF:-1,SONY CHANEL  HD
+http://go.iptvhn.net:25461/7619/7619/1291
+#EXTINF:-1,HBO 4K
+http://go.iptvhn.net:25461/7619/7619/3363
+#EXTINF:-1,HBO 2 4K
+http://go.iptvhn.net:25461/7619/7619/3364
+#EXTINF:-1,HBO PLUS 4K
+http://go.iptvhn.net:25461/7619/7619/3365
+#EXTINF:-1,HBO FAMILY 4K
+http://go.iptvhn.net:25461/7619/7619/3366
+#EXTINF:-1,
+
+
+
+
+#EXTINF:-1,History
+http://go.iptvhn.net:25461/7619/7619/802
+#EXTINF:-1,History 2
+http://go.iptvhn.net:25461/7619/7619/1270
+#EXTINF:-1,HISTORY  4K
+http://go.iptvhn.net:25461/7619/7619/1349
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
 
 #EXTINF:-1,
 
