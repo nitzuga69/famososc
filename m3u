@@ -13,8 +13,6 @@ http://go.iptvhn.net:25461/7619/7619/1354
 http://go.iptvhn.net:25461/7619/7619/1320
 #EXTINF:-1,TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1,TELEMUNDO
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1,Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,AZTECA UNO
@@ -47,8 +45,6 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 #EXTINF:-1,PUNTO 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1,CANAL 21
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 #EXTINF:-1,ECUADOR TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CANAL 57
@@ -59,8 +55,6 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 #EXTINF:-1,A+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1,ONCE
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1,CANAL 44 Chihuahua
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1,CANAL 10
@@ -77,8 +71,6 @@ http://go.iptvhn.net:25461/7619/7619/3390
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1,Telemundo Al Dia
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
-#EXTINF:-1,Telemundo Corpus Christi
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1,Telemundo Romance
 https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1,Universo HD
