@@ -15,6 +15,8 @@ http://go.iptvhn.net:25461/7619/7619/1354
 http://go.iptvhn.net:25461/7619/7619/1320
 #EXTINF:-1,TELEMUNDO 6
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1,TELEMUNDO 7
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1,Telemundo Internacional 
 http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
 #EXTINF:-1,Telemundo PR
@@ -286,6 +288,8 @@ http://go.iptvhn.net:25461/7619/7619/1282
 http://go.iptvhn.net:25461/7619/7619/1283
 #EXTINF:-1,Baby TV 
 http://181.114.57.246:4000/play/LCE4K4Y28Qr2Z9AM/index.m3u8
+#EXTINF:-1,Cartoonito
+http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8
 
 
 #EXTINF:-1,EXA HD
@@ -296,6 +300,8 @@ http://148.230.149.45:1020/play/a00a
 http://go.iptvhn.net:25461/7619/7619/3399
 #EXTINF:-1,BANDAMAX 
 http://go.iptvhn.net:25461/7619/7619/2638
+#EXTINF:-1,Telehit
+http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
 #EXTINF:-1,Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1,TELEHIT 
@@ -416,3 +422,12 @@ http://181.114.57.246:4000/play/Nf4QeAarDKFtuBFz/index.m3u8
 http://181.114.57.246:4000/play/TQqUqLTut8Hk4F89/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://45.5.117.57:8999/play/a04k/index.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
